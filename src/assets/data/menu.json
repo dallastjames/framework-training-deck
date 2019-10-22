@@ -102,6 +102,19 @@
       ]
     },
     {
+      "id": "iw-react-cap",
+      "title": "Ionic / React / Capacitor",
+      "folder": "ionic-react-capacitor",
+      "file": "intro",
+      "pages": [
+        {
+          "id": "iw-react-cap-start",
+          "title": "Get Started",
+          "file": "start"
+        }
+      ]
+    },
+    {
       "id": "iv-cap",
       "title": "Identity Vault",
       "folder": "identity-vault-capacitor",

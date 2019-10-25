@@ -19,7 +19,7 @@
         {
           "id": "iw-crd-v4-unit-testing",
           "title": "Unit Tests",
-          "file": "unit-testing"
+          "file": "unit-tests"
         },
         {
           "id": "iw-crd-v4-style",
@@ -111,6 +111,11 @@
           "id": "iw-react-cap-start",
           "title": "Get Started",
           "file": "start"
+        },
+        {
+          "id": "iw-react-cap-unit-testing",
+          "title": "Unit Tests",
+          "file": "unit-tests"
         }
       ]
     },
